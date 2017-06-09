@@ -52,7 +52,7 @@ p{
 .page-one{
 	background:url(https://images.unsplash.com/photo-1430694861378-07d0df6309b3?dpr=1&auto=format&fit=crop&w=1080&h=715&q=80&cs=tinysrgb&crop=&bg=);
 	background-size: cover;
-	height: 1200px;
+	padding-bottom: 10%;
 }
 
 .page-two{
@@ -75,4 +75,37 @@ p{
 	background-size: cover;
 	height: 1200px;
 	padding-top: 5%;
+}
+
+#twitterIcon{
+	color: rgb(0, 172, 237);
+}
+
+#githubIcon{
+	color: rgb(102, 43, 129);
+}
+
+#linkedinIcon{
+	color: rgb(0, 127, 178);
+}
+
+#instagramIcon{
+	color: rgb(188, 42, 141);
+}
+
+.paddingBtn{
+	padding-top: 25%;
+	padding-bottom: 25%;
+	width: 200px;
+	margin-bottom: 25px;
+}
+
+.paddingTop{
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.footer{
+	background-color: black;
+	height: 50px;
 }
