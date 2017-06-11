@@ -45,6 +45,10 @@ p{
 
 .me{
 	height: 400px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 50%;
 
 }
 
@@ -58,7 +62,7 @@ p{
 .page-two{
 	background:url(https://images.unsplash.com/photo-1476687754667-c144fc3f924d?dpr=1&auto=format&fit=crop&w=1500&h=896&q=80&cs=tinysrgb&crop=&bg=);
 	background-size: cover;
-	height: 1200px;
+	padding-bottom: 5%;
 	padding-top: 5%
 }
 
@@ -73,7 +77,7 @@ p{
 .page-four{
 	background:url(https://images.unsplash.com/photo-1475859880971-f389e8a1bda8?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=);
 	background-size: cover;
-	height: 1200px;
+	padding-bottom: 5%;
 	padding-top: 5%;
 }
 
@@ -90,7 +94,7 @@ p{
 }
 
 #instagramIcon{
-	color: rgb(188, 42, 141);
+	color: rgb(18, 86, 136);
 }
 
 .paddingBtn{
@@ -107,5 +111,8 @@ p{
 
 .footer{
 	background-color: black;
-	height: 50px;
+}
+
+.footer p{
+	font-size: 15px;
 }
