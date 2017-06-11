@@ -65,8 +65,8 @@ p{
 .page-three{
 	background:url(https://images.unsplash.com/photo-1470121863591-55f904f4909f?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=);
 	background-size: cover;
-	height: 1200px;
 	padding-top: 5%;
+	padding-bottom: 5%;
 
 }
 
